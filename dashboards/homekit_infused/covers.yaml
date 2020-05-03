@@ -47,6 +47,9 @@
                     - domain: script
                     - domain: sensor
                     - domain: switch
+                    - domain: input_text
+                    - domain: input_boolean
+                    - domain: input_select
                   include:
                     - domain: cover
                       options:
@@ -91,6 +94,9 @@
                     - domain: script
                     - domain: sensor
                     - domain: switch
+                    - domain: input_text
+                    - domain: input_boolean
+                    - domain: input_select
                   include:
                     - entity_id: '*garage*'
                       options:
