@@ -40,6 +40,7 @@ all_garage_doors:
 - Step 6: You are done!
 
 NOTE: To make the covers button work in both the menu and frontpage you MUST fill in a sensor badge (this is usually done at onboarding). I assume you have already done the onboarding process, so go to HKI Settings > Button Config > Covers and put either a device_counter entity or `input_number.empty`. THIS IS MANDATORY even if you do not plan to use this!
+
 EXTRA NOTE: Some new text have been added and therefor languages previously translated might be incomplete (e.g. vacuum page is only translated in a few languages). If your language isn't there you can either set it to English once and then back to your own language (this way at least the English titles will be there). Else fill in your own words which can be done in the HKI Settings > Other Translations. If you speak any of the included languages, please be so kind to fill in additional translations and send them back to me. If your language isn't supported, you can always help me translating and it will be added in any of the upcoming versions.
 
 Thanks and Enjoy!
