@@ -430,6 +430,7 @@ input_boolean:
   vacuum_live_map:
   vacuum_user_content:
 
+  header_advanced_mode_covers:
   header_advanced_mode_alarm:
   header_advanced_mode_climate:
   header_advanced_mode_light:
