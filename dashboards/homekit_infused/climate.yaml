@@ -94,31 +94,23 @@
             - entity: input_boolean.climate_thermostat
               state: "on"
           card:
-            type: custom:state-switch
-            entity: input_select.climate_columns
-            states:
-              "3":
-                !include
-                - '../templates/auto_fill_thermostat_template.yaml'
-                - group: group.all_climate_entities
-                  content: "[[[ return `${states['input_text.name_thermostat'].state}` ]]]"
-                  lock: "[[[ return states['input_boolean.climate_thermostat_lock'].state === 'on' ]]]"
-                  columns: 3
+            !include
+            - '../templates/auto_fill_thermostat_template.yaml'
+            - group: group.all_climate_entities
+              content: "[[[ return `${states['input_text.name_thermostat'].state}` ]]]"
+              lock: "[[[ return states['input_boolean.climate_thermostat_lock'].state === 'on' ]]]"
+              columns: 3
         - type: conditional
           conditions:
             - entity: input_boolean.climate_fans
               state: "on"
           card:
-            type: custom:state-switch
-            entity: input_select.climate_columns
-            states:
-              "3":
-                !include
-                - '../templates/auto_fill_fan_template.yaml'
-                - group_fans: group.all_fans
-                  content: "[[[ return `${states['input_text.name_fans'].state}` ]]]"
-                  lock: "[[[ return states['input_boolean.climate_fan_lock'].state === 'on' ]]]"
-                  columns: 3
+            !include
+            - '../templates/auto_fill_fan_template.yaml'
+            - group_fans: group.all_fans
+              content: "[[[ return `${states['input_text.name_fans'].state}` ]]]"
+              lock: "[[[ return states['input_boolean.climate_fan_lock'].state === 'on' ]]]"
+              columns: 3
         - type: conditional
           conditions:
             - entity: input_boolean.climate_temperature
