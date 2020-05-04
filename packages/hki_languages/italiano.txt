@@ -23,9 +23,9 @@ input_text.name_header_secondary_alarm = Panoramica
 input_text.name_header_secondary_download = Panoramica 
 
 input_text.name_header_secondary_covers = Panoramica
-input_text.name_header_covers = Covers
-input_text.name_covers = Covers
-input_text.name_covers_label = Panello
+input_text.name_header_covers = Coperture
+input_text.name_covers = Coperture
+input_text.name_covers_label = Pannello
 
 input_text.name_custom = Personalizza
 input_text.name_favorites = Preferiti
@@ -85,7 +85,7 @@ input_text.name_battery = Batteria
 input_text.name_battery_label = Panoramica
 
 input_text.name_automation = Automazione
-input_text.name_automation_label = Manager
+input_text.name_automation_label = Gestione
 
 input_text.name_calendar = Calendario
 input_text.name_calendar_label = Panoramica
@@ -145,28 +145,28 @@ input_text.name_remote = Telecomando
 input_text.name_remote_label = Controllo
 
 input_text.name_alarm = Allarme
-input_text.name_alarm_label = Panello
+input_text.name_alarm_label = Pannello
 
-input_text.name_mode = Mode
-input_text.name_controls = Controls
-input_text.name_status_information = Status Information
-input_text.name_start = Start
-input_text.name_pause = Pause
+input_text.name_mode = Modalità
+input_text.name_controls = Controlli
+input_text.name_status_information = Informazioni sullo stato
+input_text.name_start = Avvio
+input_text.name_pause = Pausa
 input_text.name_stop = Stop
-input_text.name_find_me = Find Me
-input_text.name_quiet = Quiet
+input_text.name_find_me = Trovami
+input_text.name_quiet = Silenzioso
 input_text.name_turbo = Turbo
 input_text.name_max = Max
-input_text.name_balanced = Balanced
-input_text.name_mop = Mop
-input_text.name_vacuum_error_sensor = Error sensor
-input_text.name_vacuum_battery = Battery
-input_text.name_cleaning_count = Cleaning count
-input_text.name_total_cleaned_area = Total cleaned area
-input_text.name_total_cleaning_time = Total cleaning time
-input_text.name_main_brush_time_left = Main brush time left
-input_text.name_side_brush_time_left = Side brush time left
-input_text.name_filter_time_left = Filter time left
-input_text.name_sensor_dirty_time_left = Sensor dirty time left
+input_text.name_balanced = Equilibrato
+input_text.name_mop = Lavaggio
+input_text.name_vacuum_error_sensor = Sensore di errore
+input_text.name_vacuum_battery = Batteria
+input_text.name_cleaning_count = Conteggio delle pulizie
+input_text.name_total_cleaned_area = Superficie totale pulita
+input_text.name_total_cleaning_time = Tempo di pulizia totale
+input_text.name_main_brush_time_left = Tempo rimanente della Spazzola principale
+input_text.name_side_brush_time_left = Tempo rimanente della Spazzola laterale
+input_text.name_filter_time_left = Tempo rimanente del Filtro
+input_text.name_sensor_dirty_time_left = Tempo rimanente del Sensore Sporcizia
 
-input_text.name_garage_doors = Porte da Garage
+input_text.name_garage_doors = Porta del Garage

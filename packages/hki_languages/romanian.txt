@@ -23,19 +23,19 @@ input_text.name_header_secondary_alarm = Vedere generală
 input_text.name_header_secondary_download = Vedere generală
 
 input_text.name_header_secondary_covers = Vedere generală
-input_text.name_header_covers = Covers
-input_text.name_covers = Covers
-input_text.name_covers_label = Panou
+input_text.name_header_covers = Uși garaj
+input_text.name_covers = Panou
+input_text.name_covers_label = Uși garaj
 
 input_text.name_custom = Personalizare
 input_text.name_favorites = Favorite
-input_text.name_all = 
+input_text.name_all = Tot
 input_text.name_power = 
 input_text.name_frost = Protecție
 input_text.name_protection = Îngheț
-input_text.name_heat = Căldură
-input_text.name_on = 'Pornește'
-input_text.name_off = 'Oprește'
+input_text.name_heat = Încălzește
+input_text.name_on = Pornește
+input_text.name_off = Oprește
 input_text.name_header_about = Despre
 input_text.name_header_automations = Automatizări
 input_text.name_header_battery = Baterii
@@ -142,4 +142,4 @@ input_text.name_side_brush_time_left = Timp restant perie laterală
 input_text.name_filter_time_left = Timp restant filtru
 input_text.name_sensor_dirty_time_left = Timp restant senzor murdar
 
-input_text.name_garage_doors = Usi de Garaj
+input_text.name_garage_doors = Uși Garaj

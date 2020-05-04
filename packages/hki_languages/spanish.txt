@@ -23,19 +23,19 @@ input_text.name_header_secondary_alarm = Vista general
 input_text.name_header_secondary_download = Vista general 
 
 input_text.name_header_secondary_covers = Vista general 
-input_text.name_header_covers = Covers
-input_text.name_covers = Covers
-input_text.name_covers_label = Panel
+input_text.name_header_covers = Puertas garaje
+input_text.name_covers = Panel
+input_text.name_covers_label = Puertas garaje
 
 input_text.name_custom = Personalizado
 input_text.name_favorites = Favoritos
-input_text.name_all = Calentar
-input_text.name_power = '&nbsp;'
+input_text.name_all = Todo
+input_text.name_power = 
 input_text.name_frost = Protección
 input_text.name_protection = Heladas
-input_text.name_heat = Todo
-input_text.name_on = 'Encender'
-input_text.name_off = 'Apagar'
+input_text.name_heat = Calentar
+input_text.name_on = Encender
+input_text.name_off = Apagar
 input_text.name_header_about = Sobre
 input_text.name_header_automations = Automatizaciones
 input_text.name_header_battery = Baterías
@@ -142,4 +142,4 @@ input_text.name_side_brush_time_left = Tiempo restante cepillo lateral
 input_text.name_filter_time_left = Tiempo restante filtro
 input_text.name_sensor_dirty_time_left = Tiempo restante limpieza sensor
 
-input_text.name_garage_doors = Puertas de Garaje
+input_text.name_garage_doors = Puertas garaje
