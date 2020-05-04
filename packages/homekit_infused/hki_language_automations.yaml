@@ -31,6 +31,8 @@ automation:
               Hebrew
             {% elif is_state('input_select.language_selector', 'Română') %}
               Romanian
+            {% elif is_state('input_select.language_selector', 'Polski') %}
+              Polish
             {% else %}
               Select
             {% endif %}
